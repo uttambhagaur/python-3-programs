@@ -1,4 +1,7 @@
 list = [21,12,14,15,16,20]
+#listNew = list
+#list can not be copy into listNew it just point out copy will done with
+#listNew = list[:]
 print(type(list))
 print(list[ :5])
 print(list[2:])
